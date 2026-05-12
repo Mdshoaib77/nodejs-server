@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air M3",
+    "description": "Lightweight and powerful laptop with Apple M3 chip.",
+    "price": 189999
+  },
+  {
+    "id": 2,
+    "name": "Dell XPS 15",
+    "description": "Premium Windows laptop with stunning display and performance.",
+    "price": 174999
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Series 9",
+    "description": "Smartwatch with advanced health and fitness tracking.",
+    "price": 54999
+  },
+  {
+    "id": 4,
+    "name": "iPad Pro 13",
+    "description": "High-performance tablet for creativity and productivity.",
+    "price": 129999
+  }
+]
